@@ -7,7 +7,7 @@ const noBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "Таны эрхийн бичиг!";
   gif.src =
-    "https://www.kapwing.com/videos/6565f0fb5410ae47d317c185";
+    "https://media.giphy.com/media/jVxbO5BCozTT6lQ9SJ/giphy.gif";
 });
 
 noBtn.addEventListener("mouseover", () => {
