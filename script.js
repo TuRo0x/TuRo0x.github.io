@@ -5,9 +5,9 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Маргааш ууулзая!";
+  question.innerHTML = "Таны эрхийн бичиг!";
   gif.src =
-    "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
+    "https://github.com/TuRo0x/issue/assets/50803766/500474ba-a689-4331-b4c2-6c6ee608dd77";
 });
 
 noBtn.addEventListener("mouseover", () => {
