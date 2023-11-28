@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Таны эрхийн бичиг!";
+  question.innerHTML = "ALE ууж эрхлэх эрхийн бичиг!";
   gif.src =
     "https://media.giphy.com/media/jVxbO5BCozTT6lQ9SJ/giphy.gif";
 });
