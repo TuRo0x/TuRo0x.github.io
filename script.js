@@ -7,7 +7,7 @@ const noBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "Багшдаа зодуулмаар байгаамуу ай ай???";
   gif.src =
-    "https://giphy.com/gifs/mrw-mods-bethesda-vX9WcCiWwUF7G";
+    "https://media.giphy.com/media/vX9WcCiWwUF7G/giphy.gif";
 });
 
 noBtn.addEventListener("mouseover", () => {
