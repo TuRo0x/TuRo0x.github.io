@@ -5,9 +5,9 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "ALE ууж эрхлэх эрхийн бичиг!";
+  question.innerHTML = "Багшдаа зодуулмаар байгаамуу ай ай???";
   gif.src =
-    "https://media.giphy.com/media/jVxbO5BCozTT6lQ9SJ/giphy.gif";
+    "https://giphy.com/gifs/mrw-mods-bethesda-vX9WcCiWwUF7G";
 });
 
 noBtn.addEventListener("mouseover", () => {
